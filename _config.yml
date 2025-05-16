@@ -1,9 +1,13 @@
-title: Audit Data Analysis Companion Site
-description: Extra chapters, errata, and notebooks
+title: Audit Data Analysis
+description: Documentation supporting the book
 theme: just-the-docs
 
-# Enable search and custom links
+# If GitHub Pages complains about 'theme' not found, use this instead:
+remote_theme: just-the-docs/just-the-docs
+
+# Optional: enable search
 search_enabled: true
-aux_links:
-  Buy the Book: https://yourstore.com
-  Open in Colab: https://colab.research.google.com
+
+# Optional: set your base path if your site is not at the root
+# (your repo is luhoo.github.io/audit-data-analysis, so set the baseurl)
+baseurl: "/audit-data-analysis"
