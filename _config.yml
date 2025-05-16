@@ -1,0 +1,9 @@
+title: Audit Data Analysis Companion Site
+description: Extra chapters, errata, and notebooks
+theme: just-the-docs
+
+# Enable search and custom links
+search_enabled: true
+aux_links:
+  Buy the Book: https://yourstore.com
+  Open in Colab: https://colab.research.google.com
