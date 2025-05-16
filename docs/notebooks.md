@@ -1,8 +1,8 @@
 ---
-title: Extra Chapters
+title: Notebooks
 nav_order: 2
 ---
 
-# Extra Chapters
+# Notebooks
 
-Links to PDF chapters or explanations here.
+Links to Google Colab here.
