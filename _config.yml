@@ -1,9 +1,9 @@
 title: Audit Data Analysis
 description: Documentation supporting the book
-theme: just-the-docs
+# theme: just-the-docs
 
 # If GitHub Pages complains about 'theme' not found, use this instead:
-# remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Optional: enable search
 search_enabled: true
