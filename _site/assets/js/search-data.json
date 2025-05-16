@@ -1,0 +1,23 @@
+{"0": {
+    "doc": "Errata",
+    "title": "Errata",
+    "content": "Nobody is perfect. ",
+    "url": "/docs/errata.html",
+    
+    "relUrl": "/docs/errata.html"
+  },"1": {
+    "doc": "Welcome",
+    "title": "Welcome",
+    "content": "This is the companion site to the book. | Extra Chapters | Errata | Jupyter Notebooks | . ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"2": {
+    "doc": "Notebooks",
+    "title": "Notebooks",
+    "content": "Links to Google Colab here. ",
+    "url": "/docs/notebooks.html",
+    
+    "relUrl": "/docs/notebooks.html"
+  }
+}
