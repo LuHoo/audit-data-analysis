@@ -3,8 +3,17 @@ title: Notebooks
 nav_order: 2
 ---
 
-# Notebooks
+# Interactive Workshops in R and Python
 
-**Audit Data Analysis** contains workshops, that explain the concepts of data science through real life examples. You can read these workshops at the end of each chapter. Even better, you can run the workshops yourself, by clicking the Binder button below:
+**Audit Data Analysis** includes hands-on workshops that demonstrate key data science concepts through realistic audit scenarios. 
+Each chapter concludes with a workshop that puts theory into practice using real-world data. 
+Even better, you can run these workshops yourself—right in your browser—by clicking the one of the buttons below. 
+No setup required.
+
+- Use Binder to launch the workshops in R Markdown (RStudio interface).
+- Use Google Colab to open the workshops as Python notebooks.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LuHoo/workbooks/main?urlpath=rstudio)
+
+No setup required. 
+Both options support reproducible, standards-aligned audit procedures using free, open-source tools.
