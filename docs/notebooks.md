@@ -15,5 +15,7 @@ No setup required.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LuHoo/workbooks/main?urlpath=rstudio)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/audit-data-analysis/blob/main/notebooks/example.ipynb)
+
 No setup required. 
 Both options support reproducible, standards-aligned audit procedures using free, open-source tools.
