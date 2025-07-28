@@ -14,8 +14,8 @@ The book emphasizes the integration of data science into audit workflows, with r
 
 This companion website offers downloadable datasets, annotated code examples, interactive notebooks, errata, and additional chapters. Support is provided for both RStudio users (via Binder) and Python users (via Google Colab), allowing flexible access to tools and resources for classroom use or professional development.
 
-- [Extra Chapters](docs/chapters)
-- [Errata](docs/errata)
-- [Notebooks](docs/notebooks)
-- [Datasets](docs/datasets)
+- [Extra Chapters](docs/chapters.md)
+- [Errata](docs/errata.md)
+- [Notebooks](docs/notebooks.md)
+- [Datasets](docs/datasets.md)
 
